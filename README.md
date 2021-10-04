@@ -122,7 +122,7 @@ By establishing the end-op, you are deemed to have accepted these responsibiliti
 ## Developers
   <div align="center">
     
-  [![ENDX3M](https://github.com/ENDX3M.png?size=100)](https://github.com/ENDX3M) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![ENDX3M](https://github.com/ENDX3M.png?size=100)](https://github.com/ENDX3M) |  [![itsmetokyo](https://github.com/itsmetokyo.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
 [Ameer Suhail](https://github.com/ENDX3M) | [itsmetokyo](https://github.com/itsmetokyo) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules |Â Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
