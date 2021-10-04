@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/ENDX3M">ENDX3M</a> to make it pub
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/end_x_17?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
 <p align="center">
@@ -52,7 +52,7 @@ Project created by <a href="https://github.com/ENDX3M">ENDX3M</a> to make it pub
 Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/EPkEhSaTQUwFsu8S8X6VwP" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
@@ -124,7 +124,7 @@ By establishing the end-op, you are deemed to have accepted these responsibiliti
     
   [![ENDX3M](https://github.com/ENDX3M.png?size=100)](https://github.com/ENDX3M) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/ENDX3M) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/ENDX3M) | [itsmetokyo](https://github.com/itsmetokyo) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules |Â Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
